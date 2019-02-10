@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+/* body{
+    background-image: url('/assets/images/pubg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+} */
+
+#bgImg{
+    background-image: url('/assets/images/pubg.jpg');
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    /* position: relative; */
+    /* background-color: black; */
+    /* filter: brightness(8px) !important; */
+    /* -webkit-filter: blur(100px) !important; */
+}
+
+body{
+    color:white;
+}
